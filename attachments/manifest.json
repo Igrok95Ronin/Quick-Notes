@@ -1,1 +1,76 @@
-{}
+{
+  "32c1cc5a-9903-40d0-a3e6-448db11926b1": {
+    "2e65ddc5-9357-4a20-aa63-ac835447767a": {
+      "name": "ChatGPT Image 11 мая 2025 г., 09_10_59.png",
+      "size": 2096589,
+      "type": "image/png",
+      "hash": "39d1f94c007ecc434c9943c7126433d9357331783ec5c84f375c9950d2d7429b"
+    },
+    "5204fdfa-3c74-4979-8d5b-8531e843f32e": {
+      "name": "ChatGPT Image 11 мая 2025 г., 09_18_40.png",
+      "size": 1938333,
+      "type": "image/png",
+      "hash": "f73e7fe13328853cf02f4271f9e7201281515caed280edb129e27dd72fc9c3db"
+    },
+    "ce6b41bd-2849-4dc2-ac19-aa6ca362b1dc": {
+      "name": "Goland keys.png",
+      "size": 1991400,
+      "type": "image/png",
+      "hash": "e3887d373ac984a346705d3a4c51c0084f764c0e07fbc93eb6c84b8b5377cbd7"
+    },
+    "4df22d88-a170-4c7e-af8a-853d9d54368c": {
+      "name": "auszug.pdf",
+      "size": 239043,
+      "type": "application/pdf",
+      "hash": "d704dcca9a07f4cdd811adfbfd485f0555f4cad212bb564574158538445796d3"
+    },
+    "1e69024e-bb40-42b0-9bcc-c00910a70372": {
+      "name": "report-daa14360-79f2-467b-96be-9ef646085f90-EPGU-2025-10-12-066242-20-01[0] ЭП.pdf",
+      "size": 225023,
+      "type": "application/pdf",
+      "hash": "8593198f73c306b31ea3bd5714be7f4ce4f13ff50c09743ad1badc36ac54bb88"
+    },
+    "cf28754b-ab16-4225-95ee-a537d57220ae": {
+      "name": "report-edd49092-a3c5-4e59-83db-2695eba06cf0-EPGU-2025-10-12-064985-20-01[0] ЭП.pdf",
+      "size": 262088,
+      "type": "application/pdf",
+      "hash": "c975a0de7d68f07a81164be1ce8fdeaff0200c9da378f9833a822eb889f1c5e2"
+    },
+    "6938bf3a-2bf6-41d5-9a1b-33d44277bf97": {
+      "name": "report-f586931f-13e2-4701-9ecf-411932b576c4-EPGU-2025-10-12-130863-20-01[0] ЭП.pdf",
+      "size": 108689,
+      "type": "application/pdf",
+      "hash": "a139c669b78f0cfd671ea853fccdf930cbc2d68c696ea8523b51027b4a83332e"
+    },
+    "1d53dda3-9b41-4d5d-810e-629a3c441094": {
+      "name": "Zoltan.pdf",
+      "size": 397858,
+      "type": "application/pdf",
+      "hash": "3e66b2a5dd7be746888ac090c45ac48125cde578b8ff73f16aa4851b5d081aaf"
+    },
+    "10b6ff7d-ab3f-4063-b647-61118e08555e": {
+      "name": "вышка.pdf",
+      "size": 318492,
+      "type": "application/pdf",
+      "hash": "3a84762b931d9fd89a94d37b0c32f8a0ecdf00b268f4ff018510fdb78d037c87"
+    },
+    "b6aee1d3-62b3-4647-a1d0-d13c709338d0": {
+      "name": "Configs.txt",
+      "size": 2152,
+      "type": "text/plain",
+      "hash": "9dddda2405dd45e372dbb6a94577322009504187d15f8e19b64c03bdcfbf690d"
+    },
+    "a957805b-3b5e-48ed-8c37-b2adef33a8fe": {
+      "name": "Новый текстовый документ (2).txt",
+      "size": 913,
+      "type": "text/plain",
+      "hash": "bfaa8fcfec50c0458a15293accf32b572ec2a3608b0b775f3ea85248e098262e"
+    },
+    "0af7ba0e-3fc3-4017-8b78-d2d70506c846": {
+      "name": "Новый текстовый документ.txt",
+      "size": 710,
+      "type": "text/plain",
+      "hash": "5813558bacacb2886004778eade9e27ebca04a871da209a0d9a0a369990d6b05"
+    }
+  }
+}
