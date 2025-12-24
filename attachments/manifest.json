@@ -1,1 +1,46 @@
-{}
+{
+  "14499643-0af6-46be-9b98-46fdc6677402": {
+    "6ee0c1ab-ca7d-4b49-b088-76a144a44efc": {
+      "name": "photo_2025-12-24_16-42-11.jpg",
+      "size": 81046,
+      "type": "image/jpeg",
+      "hash": "792a27f60ebedd9d9a0a4b99a53612d66de245510c7fd15d470024953ca40fe5"
+    },
+    "7740b536-c7ef-4cf9-bcc0-f1bae5ee2c2b": {
+      "name": "photo_2025-12-24_16-42-48.jpg",
+      "size": 116876,
+      "type": "image/jpeg",
+      "hash": "e4e87cc733d3a0bab4fafaa69e23e3b966d8c4782a83b98a60fdbb445a008f91"
+    },
+    "2c74df7c-c43d-4961-83b6-798a70e3f7f6": {
+      "name": "photo_2025-12-24_16-43-17.jpg",
+      "size": 120304,
+      "type": "image/jpeg",
+      "hash": "d7b125609779124b4e145c88345b0ad3526417740c7fa09b0a3239bc7329a937"
+    },
+    "2d5e28fd-d60a-4f98-aeed-caa5764186c5": {
+      "name": "photo_2025-12-24_16-43-36.jpg",
+      "size": 149722,
+      "type": "image/jpeg",
+      "hash": "f8f7f905ba8e87927a8742b928e32608dc4ed48dd76bd242db8d269d5e7c4d6b"
+    },
+    "a883a530-24ef-49f9-97ee-20139c8a9b86": {
+      "name": "photo_2025-12-24_16-44-22.jpg",
+      "size": 99241,
+      "type": "image/jpeg",
+      "hash": "3d8bb91e38ce2165cae86b05794d046eafe8554c55ba2ccf163588226a2e507d"
+    },
+    "2285e431-4e7a-411b-88e8-d6a4635f22b5": {
+      "name": "Telegram_h9x2rmYOD3.png",
+      "size": 1995,
+      "type": "image/png",
+      "hash": "d873eebe04f5954b68505f2b417cf9c2630183cf66c50a24dccd98b91d2d9755"
+    },
+    "3e6acd35-7acd-4fef-a8b2-e93eeeafde1e": {
+      "name": "photo_2025-12-24_16-45-30.jpg",
+      "size": 111931,
+      "type": "image/jpeg",
+      "hash": "48f6377d0ce19988600d631e87f8f8070a335b6617e7aeee0e467c1806accc71"
+    }
+  }
+}
