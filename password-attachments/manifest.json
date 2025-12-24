@@ -1,16 +1,18 @@
 {
-  "7c67a8ef-7474-40d5-869c-f9250991a28e": {
-    "21b57dc4-389b-4c1b-98f6-fcfe83462f34": {
-      "name": "ChatGPT Image 11 мая 2025 г., 09_10_59.png",
-      "size": 2096589,
-      "type": "image/png",
-      "hash": "39d1f94c007ecc434c9943c7126433d9357331783ec5c84f375c9950d2d7429b"
-    },
-    "365e89f9-7aeb-41d2-a9b8-e329249eb35d": {
-      "name": "report-edd49092-a3c5-4e59-83db-2695eba06cf0-EPGU-2025-10-12-064985-20-01[0] ЭП.pdf",
-      "size": 262088,
+  "6338103b-4ba4-4c27-a1ec-f887f4acf84c": {
+    "16875047-4534-4185-beee-c8575273cfa0": {
+      "name": "Establishment Card (2).pdf",
+      "size": 1035834,
       "type": "application/pdf",
-      "hash": "c975a0de7d68f07a81164be1ce8fdeaff0200c9da378f9833a822eb889f1c5e2"
+      "hash": "be52256391593bf42347832803cc15be6df995db861c9332594a99f4ce24460a"
+    }
+  },
+  "2a4899cf-96ce-4909-98e2-6436ae0b8738": {
+    "23e3f477-e910-464a-a505-f7bef75b1fca": {
+      "name": "20250217140008327 (2).pdf",
+      "size": 364441,
+      "type": "application/pdf",
+      "hash": "d4ea7bc7c35391d573b26fdd04ed3d24312f7cca3cb1aef6a2ef5fcff730732c"
     }
   }
 }
