@@ -1,4 +1,24 @@
 {
+  "5c26ae2e-cb2d-4315-bff2-4075de319946": {
+    "82d52137-62e6-4097-86f1-ae3675920d3c": {
+      "name": "доноры.txt",
+      "size": 399,
+      "type": "text/plain",
+      "hash": "d2e32369b52c05f586b4e55f5ab0c70314f5a471be0c9316b846926adb430f17"
+    },
+    "20132621-659e-4229-8158-44dcab2fd32d": {
+      "name": "целевые.txt",
+      "size": 689,
+      "type": "text/plain",
+      "hash": "55373de0b22b4c7cd4f974dcea2999ac334b30b59a49395283753055906b892d"
+    },
+    "ad67b9b7-bf5f-405d-b1dc-841a8baa96d9": {
+      "name": "link_scheme_v4.xlsx",
+      "size": 15234,
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "hash": "b5d96c4038ab89ccca62f11f1cf30d36716b4b59aa4aeae783a431c3e40f253d"
+    }
+  },
   "14499643-0af6-46be-9b98-46fdc6677402": {
     "6ee0c1ab-ca7d-4b49-b088-76a144a44efc": {
       "name": "photo_2025-12-24_16-42-11.jpg",
