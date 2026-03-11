@@ -1,4 +1,24 @@
 {
+  "48a98a70-5b6d-4b60-9f83-131341bd4dad": {
+    "07b09162-6711-4a1a-addb-d661011f3a39": {
+      "name": "cookie16.json",
+      "size": 203252,
+      "type": "application/json",
+      "hash": "b32257da62d4aae171a49a69f3a25e125d3cad6078a4d77e1feb031d1702c112"
+    },
+    "9eeae7cc-7212-4158-9fba-4d8674830346": {
+      "name": "Gmail.txt",
+      "size": 524,
+      "type": "text/plain",
+      "hash": "a2c81c77ebebaecdb2eb4ce0344c1f2cc84f37d345f726a126ae2244f2c193cf"
+    },
+    "0a6451d3-9070-4122-9058-347d3375f8bd": {
+      "name": "photo_2026-03-11_13-53-45 — копия.jpg",
+      "size": 48956,
+      "type": "image/jpeg",
+      "hash": "28bf6211eb1993752e037fae781c7d00f2d271ae9efec1fdba7f33bee973481d"
+    }
+  },
   "7c04bc60-fcf0-46fe-a357-3656722fa56b": {
     "772da4e3-37f6-40d3-b92f-a71a443d5222": {
       "name": "cookie11.json",
