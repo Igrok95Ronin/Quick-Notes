@@ -1,4 +1,30 @@
 {
+  "496b3928-9644-4761-95c1-9eda8655ff48": {
+    "31246cbd-7939-4c3b-93b9-873a8e36308e": {
+      "name": "6968986_202603ab891424bee1754eef7da2ca34cdab4b73891631221f380fb2e5a818aeaa8a39.txt",
+      "size": 1054,
+      "type": "text/plain",
+      "hash": "1946cd39a292ed0829de4053b5606c0d2de26029863a4dc60344dd3c5f8fc963"
+    },
+    "f1dd9c6a-8bc5-4f06-87bc-8bc258ca0cad": {
+      "name": "photo_2026-03-14_16-05-54.jpg",
+      "size": 49482,
+      "type": "image/jpeg",
+      "hash": "e933a46796b1f4247a0ff76c6b7f58767622d299ba3cbbeb04bb58d301648e73"
+    },
+    "7850a475-11e3-4ee7-a471-fe51bfe51f14": {
+      "name": "Gmail.txt",
+      "size": 469,
+      "type": "text/plain",
+      "hash": "1791fbee1111742b5506ea5d7d7d53476c42e7fd3cbdad40930f964746da47eb"
+    },
+    "35ee7a25-8220-4677-b182-6b7fb9d80d1d": {
+      "name": "cookie1.json",
+      "size": 204961,
+      "type": "application/json",
+      "hash": "c7f6a7b30488b640e0be340010bda6320962b8fb354145a657af2c44712ca1d6"
+    }
+  },
   "860c867f-660a-446d-af6b-90db56cf1f8a": {
     "9fdee115-84e0-4b84-a3a9-3a05c493163c": {
       "name": "MEGA-КЛЮЧ-ВОССТАНОВЛЕНИЯ.txt",
